@@ -1,6 +1,6 @@
 # Supporting Information
 
-This repository contains Supporting Information (SI methods and tables) associated with the studies III and IV of the doctoral thesis (Anton Lavrinienko, Ecology and Genetics, University of Oulu, Oulu 90014, FINLAND)
+This repository contains Supporting Information (SI methods, figures and tables) associated with the studies III and IV of the doctoral thesis (Anton Lavrinienko, Ecology and Genetics, University of Oulu, Oulu 90014, FINLAND)
 
 ### File explanations
 
